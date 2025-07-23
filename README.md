@@ -30,13 +30,7 @@ For free usage, choose **GPT-3.5-Turbo** (sometimes labeled as **ChatGPT** or **
 
 #### 6. **Craft a Powerful Prompt**
 
-Write a thoughtful prompt that defines your chatbot’s behavior and tone. Include:
-
-* What it knows (e.g., AI trends, tools, concepts)
-* How it should talk (e.g., friendly, clear, helpful)
-* Any limitations (e.g., no internet access, not a coding bot)
-
-> *Tip: See my full example prompt in the post above.*
+Write a thoughtful prompt that defines your chatbot’s behavior and tone.
 
 #### 7. **Add a Knowledge Base (Optional)**
 
